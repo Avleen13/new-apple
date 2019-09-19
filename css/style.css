@@ -3,3 +3,6 @@ body{
     color: white;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
+.main-first{
+    background-image: url('/img/iphone11pro.jpg')
+}
